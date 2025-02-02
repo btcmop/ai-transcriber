@@ -6,12 +6,9 @@ AI Transcriber is a Python-based tool that converts speech to text using OpenAI�
 
 ## 🚀 Features
 ✅ **AI-Powered Speech-to-Text** - Uses Whisper for precise transcription.  
-
 ✅ **Handles Noisy Audio & Fast Speech** - Great for rap, interviews, or podcasts.  
-
 ✅ **Editable Captions** - Outputs a text file for easy review and editing.  
 ✅ **Simple Command-Line Interface (CLI)** - Just run the script and get your transcript.  
-
 ✅ **Future Plans** - AI-assisted accuracy review, web UI, YouTube plugin.
 
 ## 🛠️ Installation
@@ -35,7 +32,9 @@ AI Transcriber is a Python-based tool that converts speech to text using OpenAI�
 
 ## 📌 Future Enhancements
 🔹 AI-powered accuracy review to catch mistakes.
+
 🔹 Web App & Browser Extension for YouTube captions.
+
 🔹 Custom Model Fine-Tuning for better slang/rap/music transcription.
 
 ## 💡 Contributing
