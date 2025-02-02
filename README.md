@@ -16,3 +16,9 @@ AI Transcriber is a Python-based tool that converts speech to text using OpenAIâ
    ```sh
    git clone https://github.com/your-username/ai-transcriber.git
    cd ai-transcriber
+2. **Install dependencies**:
+   ```sh
+   pip install openai-whisper torch soundfile
+3. **Run the Script**:
+   ```sh
+   python transcribe.py your_audio_file.mp3
